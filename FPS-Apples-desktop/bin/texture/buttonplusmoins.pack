@@ -1,0 +1,19 @@
+
+buttonplusmoins.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buttonmoins_unchecked
+  rotate: false
+  xy: 1, 1
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+buttonplus_unchecked
+  rotate: false
+  xy: 228, 1
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
